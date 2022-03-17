@@ -1,0 +1,21 @@
+{
+  "name": "start-gulp",
+  "version": "1.0.0",
+  "main": "gulpfile.js",
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "gulp-sass": "5.1.0",
+    "gulp-sourcemaps": "^2.6.4",
+    "node-sass": "7.0.1",
+    "sass": "^1.49.9"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "gulp-cli": "^2.2.0"
+  }
+}
